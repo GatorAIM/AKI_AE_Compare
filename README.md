@@ -15,6 +15,7 @@ This study aims to evaluate the performance of five common AE variants in retrie
 - Robust Autoencoder (RAE)
 
 Additionally, the study investigates the impact of different distance measures and hyperparameter configurations on model performance.
+![AE models](AE.png)   
 
 ## Method
 We tested these five AE variants on two real-world datasets:
